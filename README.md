@@ -1,13 +1,11 @@
 
 # 📈 Marketing Campaigns Analysis
 
-## 📂 Dataset Overview
-This dataset contains detailed records of **2,000 marketing campaigns** across multiple advertising channels, including:
+![ Marketing Campaigns](bullhorn (1).png)
 
-- Email Marketing
-- Paid Advertising
-- Influencer Marketing
-- Social Media Campaigns
+
+## 📂 Dataset Overview
+This dataset contains detailed records of **2,000 marketing campaigns** across multiple advertising channels
 
 It provides a **comprehensive comparison** between campaigns based on key performance indicators such as:
 
@@ -43,6 +41,13 @@ It provides a **comprehensive comparison** between campaigns based on key perfor
 - **August and November** recorded the **best performance** in terms of conversions, impressions, and clicks.
 - The **45–54 age group** had the **highest conversion rate**.
 - **Female audiences** showed a **higher conversion rate** compared to other segments.
+
+
+## 📦 Tools Used
+- Power Query
+- Power BI
+
+
 
 ---
 
