@@ -1,7 +1,7 @@
 
 # 📈 Marketing Campaigns Analysis
 
-![ Marketing Campaigns](bullhorn (1).png)
+![ Marketing Campaigns](bullhorn.png)
 
 
 ## 📂 Dataset Overview
@@ -43,11 +43,6 @@ It provides a **comprehensive comparison** between campaigns based on key perfor
 - **Female audiences** showed a **higher conversion rate** compared to other segments.
 
 
-## 📦 Tools Used
-- Power Query
-- Power BI
-
-
 
 ---
 
@@ -55,3 +50,13 @@ It provides a **comprehensive comparison** between campaigns based on key perfor
 - Focus on promoting products targeted at **younger age groups**, as they are more active on social media platforms.
 - **Reconsider the use of paid advertising campaigns**, as they are less effective compared to other marketing channels.
 - **Monitor and analyze campaign activities in August and November** to replicate their success and improve profitability across the entire year.
+
+
+
+---
+
+## 📦 Tools Used
+- Power Query
+- Power BI
+
+
